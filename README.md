@@ -1,25 +1,24 @@
 # 👋 Hello, I'm Sachin Channabasavarajendra!
 
-🚀 **Blockchain & Distributed Systems Enthusiast** | 🌐 **Software Engineer** | 🎓 **Master's Student in Computer Science**
+🚀 **Distributed Systems Enthusiast** | 🌐 **Software Engineer** | 🎓 **Master's Student in Computer Science**
 
 ---
 
 ## 🌟 About Me
 - 🔭 **Currently Exploring:** Distributed and decentralized systems for real-world applications.
 - 💡 **Passionate About:** Building scalable, secure, and transparent solutions with emerging technologies.
-- 🌱 **Learning Focus:** Blockchain ecosystems, peer-to-peer networks, and consensus algorithms.
-- 📚 **Master's Program:** Northeastern University, specializing in Distributed Systems, Cloud Computing, and Machine Learning.
+- 🌱 **Learning Focus:** Byzantine fault tolerant systems, consensus algorithms, Blockchain ecosystems and peer-to-peer networks.
+- 📚 **Master's Program:** Northeastern University, specializing in Distributed Systems, Cloud Computing and Algorithms.
 
 ---
 
 ## 🔑 Key Skills & Tools
 - **Languages:** Go, Java, JavaScript, Python, C#, HTML, CSS
-- **Blockchain Expertise:** Hyperledger Fabric, Proof of Work (PoW), Cryptographic Validation
 - **Frameworks:** React, Node.js, Spring Boot, Flask, .NET Core
 - **Databases:** MongoDB, MySQL, PostgreSQL, Elasticsearch, Neo4J
 - **Cloud Platforms:** Azure, AWS, GCP
 - **Version Control & CI/CD:** Git, Jenkins, Octopus Deploy, Kubernetes, Docker
-- **Research Interests:** NLP (Knowledge Infusion), AI Model Performance, and Blockchain Applications
+- **Research Interests:** Scalable distributed fault-tolerant applications and NLP (Knowledge Infusion). 
 
 ---
 
@@ -27,15 +26,6 @@
 ### **Trustify - Decentralized Product Review System**
 - **Description:** A blockchain-based system using Go, Docker, and Proof of Work to ensure transparent, immutable, and decentralized review validation.
 - **Impact:** Enhanced trust and authenticity in review ecosystems with cryptographic validation and peer-to-peer networking.
-- 🌐 [Explore the Repository](https://github.com/dracosachin/trustify)
-
-### **Digital Engine Logbook**
-- **Description:** A blockchain-secured system using Hyperledger Fabric for modernizing engine records with React and Node.js.
-- **Outcome:** Improved traceability, reduced downtime, and enhanced aircraft part management.
-
-### **Knowledge Infusion in Language Models**
-- **Description:** Infused knowledge into smaller LMs (e.g., T5-small) to rival larger models for link prediction and QA tasks.
-- **Presentation:** Presented at the 19th International Conference on NLP, IIIT Delhi.
 
 ---
 
