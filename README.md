@@ -47,7 +47,7 @@
 
 ## 🌐 Let's Connect!
 - **LinkedIn:** [Sachin Channabasavarajendra](https://linkedin.com/in/sachinchannabasavarajendra)
-- **GitHub:** [dracosachin](https://github.com/sachinchannabasavarajendra)
+- **GitHub:** [sachinchannabasavarajendra](https://github.com/sachinchannabasavarajendra)
 - **Email:** channabasavarajend.s@northeastern.edu
 
 ---
