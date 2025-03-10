@@ -41,13 +41,13 @@
 ---
 
 ## 📈 GitHub Stats
-![Sachin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dracosachin&show_icons=true&theme=radical)
+![Sachin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sachinchannabasavarajendra&show_icons=true&theme=radical)
 
 ---
 
 ## 🌐 Let's Connect!
 - **LinkedIn:** [Sachin Channabasavarajendra](https://linkedin.com/in/sachinchannabasavarajendra)
-- **GitHub:** [dracosachin](https://github.com/dracosachin)
+- **GitHub:** [dracosachin](https://github.com/sachinchannabasavarajendra)
 - **Email:** channabasavarajend.s@northeastern.edu
 
 ---
